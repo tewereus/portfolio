@@ -1,0 +1,9 @@
+/* Portfolio App Styles - Using Modern Design System */
+
+/* Remove default styles in favor of our design system */
+#root {
+  width: 100%;
+  min-height: 100vh;
+}
+
+/* Legacy styles removed - now using design system */
