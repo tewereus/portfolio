@@ -29,7 +29,7 @@ const Footer = () => {
     {
       icon: Github,
       label: "GitHub",
-      href: "https://github.com",
+      href: "https://github.com/tewereus",
       color: "hover:text-primary",
     },
     {
@@ -73,7 +73,7 @@ const Footer = () => {
                 <Code2 className="w-6 h-6 text-primary" />
               </div>
               <div className="text-2xl font-bold gradient-text">
-                Alex Johnson
+                Tewolde Gebreyesus
               </div>
             </div>
 
